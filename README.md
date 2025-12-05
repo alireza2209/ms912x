@@ -1,4 +1,15 @@
-# ms912x driver for Linux
+
+# ms912x driver for Linux 2
+
+
+Hello,
+
+The latest version of this program has been released and is now compatible with the newest versions. To run it, simply download the program and execute the code below.
+
+✅ Everything is ready—no additional setup required
+✅ Supports USB 2.0 and USB 3.0 connections
+✅ Compatible with DisplayPort
+
 
 Linux kernel driver for MacroSilicon USB to VGA/HDMI adapter.
 
